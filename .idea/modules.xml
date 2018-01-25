@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader.iml" />
+      <module fileurl="file://C:\Users\Moha\Desktop\xyz\xyzreader-master\XYZReader\XYZReader.iml" filepath="C:\Users\Moha\Desktop\xyz\xyzreader-master\XYZReader\XYZReader.iml" />
+      <module fileurl="file://C:\Users\Moha\Desktop\xyz\xyzreader-master\xyz-reader-starter-code-master.iml" filepath="C:\Users\Moha\Desktop\xyz\xyzreader-master\xyz-reader-starter-code-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xyzreader-master.iml" filepath="$PROJECT_DIR$/xyzreader-master.iml" />
+    </modules>
+  </component>
+</project>
